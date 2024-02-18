@@ -19,7 +19,8 @@ npm install type-validation
 ## Usage
 Import the desired validation functions from the package and use them in your TypeScript code:
 
-`
+```typescript
+
 import { isNumber, isString } from 'type-validation';
 
 console.log(isNumber(42)); // true
@@ -28,7 +29,7 @@ console.log(isNumber('42')); // false
 console.log(isString('Hello')); // true
 console.log(isString(123)); // false
 
-`
+```
 
 
 

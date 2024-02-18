@@ -1,6 +1,6 @@
 {
     "name": "type-validation-in-ts",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "A simple type validation library for TypeScript",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
