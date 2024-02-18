@@ -1,0 +1,13 @@
+{
+    "name": "type-validation-in-ts",
+    "version": "1.0.1",
+    "description": "A simple type validation library for TypeScript",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": ["typescript", "validation"],
+    "author": "Your Name",
+    "license": "MIT"
+}
